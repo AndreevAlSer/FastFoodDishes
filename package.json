@@ -1,0 +1,19 @@
+{
+  "name": "fast_food_dishes",
+  "version": "1.0.0",
+  "description": "CRUD for fast food dishes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreevAlSer/FastFoodDishes.git"
+  },
+  "author": "Oleksandr Andreiev (andreevalser17@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreevAlSer/FastFoodDishes/issues"
+  },
+  "homepage": "https://github.com/AndreevAlSer/FastFoodDishes#readme"
+}
